@@ -1,0 +1,10 @@
+.nav {
+	background-color: rgb(6, 100, 138);
+	padding: 15px 0px;
+}
+.nav > a {
+	color: white;
+	margin-left: 1.3rem;
+	font-size: 1.2rem;
+	text-decoration: none;
+}
